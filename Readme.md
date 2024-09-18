@@ -1,7 +1,4 @@
-# 4. Simple Object Detection
-
-Day: Day 4
-Position: AI/ML
+# Simple YOLO Object Detection
 
 이번 시간에는 yolov5 모델을 사용해서 간단한 object detection 프로그램을 작성해보겠습니다. Python이 설치되어 있다는 전제 하에 진행합니다.
 
@@ -124,7 +121,7 @@ python object_detection.py
 
 ![객체 탐지 결과 1](assets/result1.png)
 
-![객체 탐지 결과2 ](assets/result2.png)
+![객체 탐지 결과 2](assets/result2.png)
 
 ## 5. 기타
 
