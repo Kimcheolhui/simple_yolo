@@ -1,0 +1,4 @@
+*.pt
+
+yolo_env/
+yolov5/
